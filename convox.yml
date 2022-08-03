@@ -1,0 +1,7 @@
+environment:
+  - PORT=80
+services:
+  web:
+    domain: ${HOST}
+    build: .
+    port: 80
