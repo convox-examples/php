@@ -1,4 +1,4 @@
-zenvironment:
+environment:
   - PORT=80
 services:
   web:
